@@ -1,4 +1,4 @@
-# EV-Charging-Finder
+
 # ⚡ EV Charging Finder (Prototype)
 
 A single-file web prototype that shows how EV Charging Finder works: type a city,
